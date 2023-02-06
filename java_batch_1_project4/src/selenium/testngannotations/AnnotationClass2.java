@@ -2,6 +2,11 @@ package selenium.testngannotations;
 
 import org.testng.annotations.*;
 
+/**
+* @author : srikanth
+*
+*/
+
 public class AnnotationClass2 extends BaseClass{
 
 	@Test
